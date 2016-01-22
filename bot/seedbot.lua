@@ -220,7 +220,6 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    "Chat1",
     "Feedback",
     "Google",
     "Web_Shot",
